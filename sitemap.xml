@@ -1,26 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://xinjing260.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <url>
     <loc>https://xinjing260.github.io/categories/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xinjing260.github.io/posts/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xinjing260.github.io/post/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://xinjing260.github.io/tags/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://xinjing260.github.io/categories/%E4%BD%9B%E5%AD%A6/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xinjing260.github.io/tags/%E5%AD%A6%E4%BD%9B/</loc>
-    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://xinjing260.github.io/2022/06/%E5%BF%83%E7%BB%8F/</loc>
-    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://xinjing260.github.io/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
+  
+  <url>
+    <loc>https://xinjing260.github.io/post/my-first/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xinjing260.github.io/tags/%E5%AD%A6%E4%BD%9B/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
