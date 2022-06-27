@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://xinjing260.github.io/sitemap.xml
+Sitemap: https://zhongnianxuefo.github.io/sitemap.xml
